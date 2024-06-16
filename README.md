@@ -1,6 +1,5 @@
 # E-Commernce UI App
-![Screenshot_1718539475](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/5fe2925d-826a-4a76-ae75-78f7b1d6e07e)
-![Screenshot_1718539484](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/637da73c-02e5-46fa-8474-431960c54538)
+![Screenshot_1718539475](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/5fe2925d-826a-4a76-ae75-78f7b1d6e07e)   ![Screenshot_1718539484](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/637da73c-02e5-46fa-8474-431960c54538)
 ![Screenshot_1718539490](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/f3793b4b-ede4-4d00-ad4e-7d83c76a5730)
 ![Screenshot_1718539495](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/8fd2c442-1704-4864-ba67-07c456d88e93)
 ![Screenshot_1718539515](https://github.com/AhmedEmamMM/E-Commerce-UI-App/assets/102431895/a3436117-232b-43bf-b2ba-c6d7abe246c9)

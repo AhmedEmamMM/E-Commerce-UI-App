@@ -1,4 +1,5 @@
 import 'package:e_commernce_ui/features/home/view/cart/cart_screen.dart';
+import 'package:e_commernce_ui/features/home/view/profile/profile_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'icon_btn_with_counter.dart';
@@ -10,10 +11,16 @@ class HomeHeader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 20),
+      padding: const EdgeInsets.symmetric(horizontal: 10),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
+          IconBtnWithCounter(
+            svgSrc: "assets/icons/User Icon.svg",
+            press: () => Navigator.push(context,
+                MaterialPageRoute(builder: (context) => const ProfileScreen())),
+          ),
+          const SizedBox(width: 8),
           const Expanded(child: SearchField()),
           const SizedBox(width: 16),
           IconBtnWithCounter(
